@@ -1,0 +1,33 @@
+@font-face {
+  font-family: 'itcast';
+  src:  url('fonts/itcast.eot?pu4g3y');
+  src:  url('fonts/itcast.eot?pu4g3y#iefix') format('embedded-opentype'),
+    url('fonts/itcast.ttf?pu4g3y') format('truetype'),
+    url('fonts/itcast.woff?pu4g3y') format('woff'),
+    url('fonts/itcast.svg?pu4g3y#itcast') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'itcast' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-logo:before {
+  content: "\e9e1";
+}
+.icon-weijinsuo:before {
+  content: "\e9e2";
+}
+
