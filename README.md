@@ -1,2 +1,2 @@
 # wjs
-这是一个使用Bootstarp框架搭建的首页
+这是一个使用Bootstarp响应式框架搭建的微金所首页
